@@ -1,7 +1,8 @@
-## First TRY
-```gherkin
-As a [role]
-I want [feature]
-So that [benefit]
-```
+**Описание** : 
+**Среда воспроизведения** : 
+**Домен** : tutorsband
+**Шаги** : 
+1.
+2.
 
+**Скриншот** :
