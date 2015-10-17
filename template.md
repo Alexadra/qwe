@@ -1,9 +1,11 @@
-**Описание** : 
-**Среда воспроизведения** : 
-**Домен** : tutorsband
-**Шаги** : 
+**Description** : 
+**Environment** : 
+**url** : test
+**Steps** : 
 1.
 2.
 =
+**Actual result** :
 
-**Скриншот** :
+**Expected result** :
+
