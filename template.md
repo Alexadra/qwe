@@ -1,4 +1,4 @@
-**Software** : 
+**Software** : Chorme 45 
 **url** : https://vityavideo.restream.io
 **Steps** : 
 1.
