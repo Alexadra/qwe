@@ -1,5 +1,5 @@
-**Software** : Chorme 45 
-**url** : https://vityavideo.restream.io
+**Software** : Chrome 45 
+**url** :  
 **Steps** : 
 1.
 2.
